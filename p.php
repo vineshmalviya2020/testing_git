@@ -1,5 +1,5 @@
 <?php
 echo " TESTING PHP CONFIG ON MACHINE ";
 echo phpinfo();
-echo 'vinesh';
+echo 'vinesh1111';
 ?>
